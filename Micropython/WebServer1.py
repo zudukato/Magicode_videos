@@ -3,8 +3,8 @@ import network
 import socket
 import time
 
-ssid = 'Totalplay-2.4G-d328'
-password = 'etRktkw7vubbJyQk'
+ssid = 'Nombtere de tu Wifi'
+password = 'Contraseña de tu Wifi'
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
